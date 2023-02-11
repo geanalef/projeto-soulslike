@@ -91,6 +91,7 @@ function App() {
           className="games-list"
         >
           {/*Items da lista*/}
+          {/*Items da lista*/}
 
           {/*O method MAP vai retornar um novo array de um array existente chamado*/}
           {gameListData.map(function (item) {
