@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projeto-soulslike/static/css/main.c73b64ee.css",
+    "main.js": "/projeto-soulslike/static/js/main.29ba058b.js",
+    "static/js/787.889f3ec4.chunk.js": "/projeto-soulslike/static/js/787.889f3ec4.chunk.js",
+    "index.html": "/projeto-soulslike/index.html",
+    "main.c73b64ee.css.map": "/projeto-soulslike/static/css/main.c73b64ee.css.map",
+    "main.29ba058b.js.map": "/projeto-soulslike/static/js/main.29ba058b.js.map",
+    "787.889f3ec4.chunk.js.map": "/projeto-soulslike/static/js/787.889f3ec4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c73b64ee.css",
+    "static/js/main.29ba058b.js"
+  ]
+}
